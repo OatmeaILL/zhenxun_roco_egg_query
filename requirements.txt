@@ -1,0 +1,3 @@
+httpx>=0.24.0
+nonebot-plugin-alconna>=0.4.0
+nonebot-plugin-uninfo>=0.1.0
