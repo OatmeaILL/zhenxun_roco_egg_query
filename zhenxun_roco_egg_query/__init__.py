@@ -26,7 +26,6 @@ __plugin_meta__ = PluginMetadata(
         version="1.0",
         commands=[
             Command(command="查蛋"),
-            Command(command="查蛋 蛋径 蛋重"),
         ],
     ).to_dict(),
 )
