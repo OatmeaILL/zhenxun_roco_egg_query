@@ -1,6 +1,6 @@
 # 洛克王国世界孵蛋查询
 
-在群聊内根据宠物蛋径、蛋重，查询可能孵出的洛克王国宠物。
+基于 **zhenxun_bot** 架构编写的插件。在群聊内根据宠物蛋径、蛋重，查询可能孵出的洛克王国宠物。
 
 ## 功能
 
@@ -14,12 +14,21 @@
 
 ## 指令
 
+```
 查蛋 蛋径 蛋重
+```
 - 执行查蛋
 
+```
 查蛋
+```
 - 不带参数时返回插件帮助
 
+## 贡献
+
+欢迎提交 Issue 和 Pull Request 来改进这个插件
+
 ## 仓库地址
--https://github.com/OatmeaILL/zhenxun_roco_egg_query
--作者OatmeaILL
+
+- GitHub: https://github.com/OatmeaILL/zhenxun_roco_egg_query
+- 作者: OatmeaILL
